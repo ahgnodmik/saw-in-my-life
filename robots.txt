@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahgnodmik.github.io/sawinmylife/sitemap.xml 
+Sitemap: https://ahgnodmik.github.io/saw-in-my-life/sitemap.xml 
