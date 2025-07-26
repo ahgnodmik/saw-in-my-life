@@ -2,13 +2,13 @@
   "name": "Re:Me - 사주명리학 기반 심리 보고서",
   "short_name": "Re:Me",
   "description": "사주명리학 기반 심리 보고서, 재미와 웃음을 위한 서비스!",
-  "start_url": "/",
+  "start_url": "/saw-in-my-life/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b82f6",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "/saw-in-my-life/favicon.ico",
       "sizes": "any",
       "type": "image/x-icon"
     }
