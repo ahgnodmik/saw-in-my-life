@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahgnodmik.github.io/sawinmylife/sitemap.xml 
